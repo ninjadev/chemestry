@@ -1,0 +1,22 @@
+                Chemestry
+   
+                   by
+
+          Ninjadev feat Bitbear
+
+
+A Ninjadev release for Black Valley 2024.
+
+Finally got around to completing the collaboration
+Bitbear suggested at Solskogen 2019!
+Prepare for Chemestry in both the poetic and literal sense.
+
+Made in our open source demo tool renin
+https://github.com/ninjadev/renin
+
+To run: `python3 -m http.server 8080`
+ then going to http://localhost:8080
+Or in Chrome with --allow-file-access-from-files.
+
+Code and graphics: run, Eldfor, Zmeos, iverjo and tr0n
+Music: Planeswalker by Bitbear (https://bitbear.org/)
